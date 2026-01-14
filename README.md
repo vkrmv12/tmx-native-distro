@@ -11,7 +11,7 @@ without using proot-distro.
 # Termux-X11 👇
 [Download TERMUX-X11](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
 
-## 🎥 Video Tutorial (Many cmds used was manually entered, So make sure, you don't entirely copy everything, use cmds given there. Take it as example.
+## 🎥 Video Tutorial (Many cmds used was manually entered in video, So make sure you must use cmds given here. It's a example video tutorial).
 [Watch on YouTube](https://t.me/networkv12/178)
 
 ## ✨ Features
