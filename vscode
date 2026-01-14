@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
+export MESA_LOADER_DRIVER_OVERRIDE= #important if you have Snapdragon Adreno GPU phone
+/data/data/com.termux/files/usr/bin/code-oss
+
