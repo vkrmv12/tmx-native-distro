@@ -17,26 +17,12 @@
 - No Linux distro / proot
 - Termux:X11 + XFCE desktop
 - Code-OSS (Open Source VS Code)
-- Clean helper scripts
-- GitHub copy-enabled commands
 
 ---
-
-## 📋 Table of Contents
-- Requirements
-- Warning
-- Step-by-step Installation
-- Install Code-OSS
-- One-shot Install
-- Troubleshooting
-
----
-
 ## ✅ Requirements
 - Android device
-- Termux (F-Droid / GitHub version recommended)
+- Termux (F-Droid / or download from the official link i gave ☝️)
 - Termux:X11
-- Stable internet connection
 - Sufficient storage
 
 ---
