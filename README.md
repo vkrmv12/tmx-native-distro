@@ -140,7 +140,8 @@ Happy Coding!
 
 ---
 
-## 🚀 One-shot Install (Advanced)
+
+# 🚀 One-shot Install (Advanced)
 
 ⚠️ Use only if you understand what it does.
 
