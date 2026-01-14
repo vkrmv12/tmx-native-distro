@@ -1,11 +1,8 @@
 # Termux Native Desktop Installation with
 # 🧑‍💻 VS Code (Code-OSS) on Termux (Native, No proot-distro)
 
-Run VS Code (Code-OSS) on Termux natively using Termux:X11 + XFCE,
-without using proot-distro.
 ## 🌨️ Install Termux & Termux-X11 ( if not already )
 ---
-# Install Termux and Termux-X11 if not already.
 # Download Termux through this official link below 👇 
 [Download Termux App](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
 # Termux-X11 👇
