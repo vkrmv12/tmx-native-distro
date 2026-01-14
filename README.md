@@ -5,14 +5,13 @@ Run VS Code (Code-OSS) on Termux natively using Termux:X11 + XFCE,
 without using proot-distro.
 ## 🌨️ Install Termux & Termux-X11 ( if not already )
 ---
-Install Termux and Termux-X11 if not already.
-#Download Termux...
+# Install Termux and Termux-X11 if not already.
+# Download Termux through this official link below 👇 
 [Download Termux App](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
-
-#Download Termux-X11...
+# Termux-X11 👇
 [Download TERMUX-X11](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
 
-## 🎥 Video Tutorial 
+## 🎥 Video Tutorial (Many cmds used was manually entered, So make sure, you don't entirely copy everything, use cmds given there. Take it as example.
 [Watch on YouTube](https://t.me/networkv12/178)
 
 ## ✨ Features
