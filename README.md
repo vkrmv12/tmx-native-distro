@@ -45,6 +45,12 @@ without using proot-distro.
 ## 🧩 Step-by-step Installation
 
 ### First Run (Mandatory)
+
+Install Termux and Termux-X11 if not already.
+[Download Termux App](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
+
+[Download TERMUX-X11](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
+
 ```bash
 termux-setup-storage
 ```
