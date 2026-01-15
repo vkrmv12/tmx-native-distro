@@ -4,13 +4,13 @@
 # 🌨️ Install Termux & Termux-X11 ( if not already )
 ---
 ## Download Termux through this official link below 👇 
-[Download Termux App](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
-## Termux-X11 👇
-[Download TERMUX-X11](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
+### Termux: [Download Termux App](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk)
+
+## Termux-X11 [Download TERMUX-X11](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
 
 ## 🎥 Video Tutorial (Many cmds used was manually entered in video, So make sure you must use cmds given here. It's a example video tutorial).
 
-#### Video link :- [Watch on Telegram](https://t.me/networkv12/178)
+#### Video link :- [Watch on Telegram](https://t.me/networkv12/182)
 
 ## ✨ Features
 - Native Termux environment
